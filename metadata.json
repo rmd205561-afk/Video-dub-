@@ -1,0 +1,5 @@
+{
+  "name": "Global Video Translator",
+  "description": "Translate videos into any language with high accuracy. Supports videos up to 30 minutes with text copy options.",
+  "requestFramePermissions": []
+}
